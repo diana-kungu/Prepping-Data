@@ -3,17 +3,13 @@ from pandas import ExcelFile, read_excel, concat, merge
 from datetime import datetime
 
 
-chdir(r"c:\Users\DIANA\Desktop\Prepping_data")
-
-
 # PROCESS DATA
 #...................................................................................
 #Read Data
 xl=  ExcelFile(r'.\Data\TC Input.xlsx') 
 sheets = xl.sheet_names
-df = concat([read_excel(xl,  sheet_name=s) #
+df = concat([read_excel(xl,  sheet_name=s)
                 .assign(Date=s) for s in sheets[:-1]], axis= 0, ignore_index= True)
-
 attendees = read_excel(xl, sheet_name=sheets[-1])
 
 #Convert Attendee IDs to list
@@ -27,7 +23,7 @@ df['Date'] = df['Date'] + " " + df['Session Time'].astype('str')
 #Convert Date string to datetime object
 df['Date'] = list(map(lambda x :datetime.strptime(x, '%d-%b-%Y %H:%M:%S'), df['Date']))
 
-#Eplode dataframe:- Each Attendee on independent row
+#Explode dataframe:- Each Attendee on independent row
 df_expld = df.explode('Attendee IDs').reset_index(drop = True)
 
 #Harmonize data type for merging columns
@@ -36,7 +32,6 @@ df_expld['Attendee IDs'] = df_expld['Attendee IDs'].str.strip()
 
 #Merge with Attendees Dataframe to match code and names of attendee
 df_combined = merge( df_expld, attendees, how= 'left', left_on='Attendee IDs', right_on= 'Attendee ID')
-
 
 #A function that takes attendee codes and return their direct contacts in each session
 def get_direct(row):
@@ -54,31 +49,32 @@ def get_direct(row):
     return (set(direct)).difference([code])
 
 #Generate the direct contacts column
-df_combined['Direct-contacts-codes'] = df_combined.apply(get_direct, axis=1)
+df_combined['Direct-contact-codes'] = df_combined.apply(get_direct, axis=1)
 
 # Explode to create a row for each attendee and direct contact
-df_combined = df_combined.explode('Direct-contacts-codes')
+df_combined = df_combined.explode('Direct-contact-codes')
 
 # Drop duplicates
-df_combined = df_combined.drop_duplicates(subset=['Subject', 'Attendee ID', 'D-codes'], keep='last')\
+df_combined = df_combined.drop_duplicates(subset=['Subject', 'Attendee ID', 'Direct-contact-codes'], keep='last')\
                    .reset_index(drop= True)
 
 # Merge with Attendees df to match direct contacts code and names
-df_direct = merge( df_combined, attendees, how= 'left', left_on='Direct-contacts-codes', right_on= 'Attendee ID')
+df_direct = merge( df_combined, attendees, how= 'left', left_on='Direct-contact-codes', right_on= 'Attendee ID')
 
-#..........................................................................................................
+
+# #..........................................................................................................
 # INDIRECT CONTACTS
 #..........................................................................................................
 # Function that capture indirect attendees
 def get_indirect(row):
-    drct_code = row['D-codes']
+    drct_code = row['Direct-contact-codes']
     attendee_code = row['Attendee ID']
     topic = row['Subject']
     date = row['Date']
 
     #Get list of all  direct contacts (codes) of  a given attendee and subject
     mini_df = df_direct[(df_direct['Attendee IDs'] == attendee_code) & (df_direct['Subject'] == topic)]
-    direct_codes = list(mini_df['D-codes'].values)
+    direct_codes = list(mini_df['Direct-contact-codes'].values)
     #direct_codes = [attendees[attendees['Attendee'] == i].iloc[0,0] for i in direct_names]
     
     indirect = []
@@ -91,16 +87,16 @@ def get_indirect(row):
     return (set(indirect)).difference(direct_codes)#
 
 # Generate indirect Contacts for each row
-df_combined['Indirect_contacts'] = df_combined.apply(get_indirect, axis= 1)
+df_combined['Indirect_test'] = df_combined.apply(get_indirect, axis= 1)
 
-# Explode to flatten Indirect contacts column
-df_combined = df_combined.explode('Indirect_contacts')
+# # Explode to flatten Indirect contacts column
+df_combined = df_combined.explode('Indirect_test')
 
 # Drop duplicates
-df_combined = df_combined.drop_duplicates(subset=['Attendee ID', 'Indirect_contacts', 'Subject'])
+df_combined = df_combined.drop_duplicates(subset=['Attendee ID', 'Indirect_test', 'Subject'])
 
 # Merge:- 
-df_indirect = merge( df_combined, attendees, how= 'left', left_on='Indirect_contacts', right_on= 'Attendee ID')
+df_indirect = merge( df_combined, attendees, how= 'left', left_on='Indirect_test', right_on= 'Attendee ID')
 
 # Remove rows that have attendee being their own indirect contact
 dups = df_indirect[df_indirect['Attendee_x'] == df_indirect['Attendee_y']].index
@@ -118,13 +114,13 @@ col_names= ['Subject', 'Attendee', 'Contact Type', 'Contact']
 
 df_indirect = df_indirect[output_cols]
 df_indirect.columns = col_names
-
 df_direct = df_direct[output_cols]
 df_direct.columns = col_names
 
 #Join the indirect and direct dataframe
 tc_df = concat([df_indirect, df_direct], ignore_index= True)
 
-#SAVE OUTPUT
 tc_df.to_csv(r'.\Output\week45-tc.csv', index=False)
+print(tc_df.shape)
+print('end')
 
