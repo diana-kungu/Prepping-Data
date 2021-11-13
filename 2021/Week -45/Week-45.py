@@ -121,6 +121,4 @@ df_direct.columns = col_names
 tc_df = concat([df_indirect, df_direct], ignore_index= True)
 
 tc_df.to_csv(r'.\Output\week45-tc.csv', index=False)
-print(tc_df.shape)
-print('end')
 
