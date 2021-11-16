@@ -1,9 +1,7 @@
 #Imports
 from pandas import read_excel, pivot_table, date_range, to_datetime
-from os import getcwd, chdir
 from numpy import where
 
-chdir(r'c:\Users\DIANA\Desktop\Prepping_data')
 
 #READ DATA
 df =read_excel(r".\Data\Carl's 2021 cycling.xlsx")
