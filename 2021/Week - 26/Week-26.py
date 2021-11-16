@@ -1,9 +1,6 @@
 # IMPORTS
 from pandas import  read_csv, concat
-#from os import getcwd, chdir
 from numpy import average
-
-#chdir(r"c:\Users\DIANA\Desktop\Prepping_data")
 
 # READ DATA
 df= read_csv(r'.\Data\week26.csv', parse_dates= ["Date"], dayfirst= True)
