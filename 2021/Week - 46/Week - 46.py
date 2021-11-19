@@ -1,8 +1,7 @@
 
 # IMPORT LIBRARIES
 from pandas import read_excel, ExcelFile, concat, to_datetime, merge, read_csv
-from os import chdir
-chdir(r'C:\Users\DIANA\Desktop\Prepping_data')
+
 
 
 #READ DATA
