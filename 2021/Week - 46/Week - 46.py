@@ -1,8 +1,6 @@
 
 # IMPORT LIBRARIES
-from pandas import read_excel, ExcelFile, concat, to_datetime, merge, read_csv
-
-
+from pandas import ExcelFile, concat, merge, read_csv, read_excel, to_datetime
 
 #READ DATA
 #............................................................
@@ -51,6 +49,7 @@ genre_series = merge(info.iloc[:, 2:], series, how= 'left')
 book_details = merge(book_details, genre_series, how='left')
 
 from numpy import mean
+
 #Agg Ratings
 ratings = ratings.groupby('BookID', as_index= False).agg(Average_Rating = ('Rating', 'mean'),
                                              Number_of_Reviewers =('ReviewerID', 'count'), 
