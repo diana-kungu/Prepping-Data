@@ -14,15 +14,14 @@ with ExcelFile(r'.\Data\PD 2021 Wk 27 Input.xlsx') as xl :
 #Melt seeding dataframe and clean probabilities column
 df =melt(seeding, id_vars='Seed', var_name='Pick', value_name='Probability').dropna()
 df['Probability'] = df['Probability'].astype('str').str.strip('>').astype('float')/100
-
-# Set seed to index
+# Set seed column as index
 df.set_index('Seed', drop=True, inplace = True)
 
-# Function that generates a list of weighted random number, then the 
+# Function that generates a list of n weighted random number, then the 
 # most frequent number is selected;
 # n- number of iteration(numbers generated)
 # p - Weights(probability of each Seed)
-# s - list of Seed to be selected from
+# s - list of Seed to select from
 def lottery(n,s,p):
     lst = []
     for i in range(n):
@@ -32,17 +31,17 @@ def lottery(n,s,p):
     d = most_freq_val(lst)
     return d
 
-# Generate a list with the first four weighted random Seeds then add all numbers 
+# Generate a list of the first four weighted random Seeds then add all numbers 
 # in 1-14 range that are not in the weighted list
 seeding = []
 for i in range(14):
     if len(seeding)<4:
         try:
-            #Drop all seeds that most recent Seed selected
+            #Drop the recent selected Seed
             df.drop(seeding[-1], axis=0, inplace= True)
         
             temp = df[df['Pick'] == i+1] #Pick nos. 
-            s = temp.index #Seeds to select from
+            s = temp.index #list of Seeds to select from
             p = temp.Probability # Weight of each Seed
             draw = lottery(1000, s, p)
             seeding.append(draw)
@@ -57,7 +56,7 @@ for i in range(14):
     else:
         seeding.extend([i for i in range(1,15) if i not in seeding])
 
-# Create a dataframe with Seed list obtain above
+# Create a dataframe with Seeding list obtain above
 # Merge with team data
 lott_results = DataFrame(seeding, columns=['Seed'])
 lott_results = merge(lott_results, teams, how='left',on='Seed')
