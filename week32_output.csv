@@ -1,0 +1,9 @@
+Flight,Class,Sales 7 days of more until the flight,Sales less than 7 days until the flight,Avg. daily sales 7 days of more until the flight,Avg. daily sales less than 7 days until the flight
+London to Paris,Business,148804,41746,1071,994
+London to Paris,Economy,33204,10287,239,245
+London to Perth,Business,222149,65863,1598,1568
+London to Perth,Economy,105126,31333,756,746
+Paris to London,Business,144181,42309,1037,1007
+Paris to London,Economy,34087,10515,245,250
+Perth to London,Business,235035,76261,1691,1816
+Perth to London,Economy,106322,31008,765,738
