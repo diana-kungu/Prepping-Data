@@ -3,7 +3,7 @@
 from pandas import read_csv, to_datetime, DataFrame
 from numpy import where
 
-#2021\Week - 30\input-data.csv
+
 #Read Data
 df = read_csv(r'.\2021\Week - 30\input-data.csv')
 df.head()
