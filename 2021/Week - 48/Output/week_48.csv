@@ -1,0 +1,21 @@
+Clean Measure names,Branch,Recorded Year,True Value
+Sales,Lewisham,2020,"3,200,000"
+Profit,Lewisham,2020,"470,000"
+Number of Staff,Lewisham,2020,15
+Sales,Lewisham,2021,"3,500,000"
+Profit,Lewisham,2021,"480,000"
+Number of Staff,Lewisham,2021,17
+Sales,Wimbledon,2020,"4,300,000"
+Profit,Wimbledon,2020,"530,000"
+Number of Staff,Wimbledon,2020,15
+Sales,Wimbledon,2021,"4,099,999"
+Profit,Wimbledon,2021,"520,000"
+Number of Staff,Wimbledon,2021,16
+Sales,York,2020,"2,700,000"
+Profit,York,2020,"275,000"
+Number of Staff,York,2020,10
+Staff Cost,York,2020,"400,000"
+Sales,York,2021,"3,400,000"
+Profit,York,2021,"340,000"
+Number of Staff,York,2021,12
+Staff Cost,York,2021,"450,000"
