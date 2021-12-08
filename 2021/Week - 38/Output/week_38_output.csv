@@ -1,0 +1,91 @@
+Trilogy Ranking,Trilogy,Title,Rating,Film Order,Total Films in Series,Trilogy Average
+1,Lord of the Rings,The Lord of the Rings: The Two Towers,8.7,2,3,8.8
+1,Lord of the Rings,The Lord of the Rings: The Fellowship of the Ring,8.8,1,3,8.8
+1,Lord of the Rings,The Lord of the Rings: The Return of the King,8.9,3,3,8.8
+2,The Godfather,The Godfather Part III,7.6,3,3,8.6
+2,The Godfather,The Godfather: Part II,9.0,2,3,8.6
+2,The Godfather,The Godfather,9.2,1,3,8.6
+4,Star Wars,Star Wars: Return of the Jedi,8.3,6,9,8.5
+4,Star Wars,Star Wars: Episode IV - A New Hope,8.6,4,9,8.5
+4,Star Wars,Star Wars: Episode V - The Empire Strikes Back,8.7,5,9,8.5
+3,The Dark Knight,Batman Begins,8.2,1,3,8.5
+3,The Dark Knight,The Dark Knight Rises,8.4,3,3,8.5
+3,The Dark Knight,The Dark Knight,9.0,2,3,8.5
+5,Dollars,A Fistful of Dollars,8.0,1,3,8.3
+5,Dollars,For a Few Dollars More,8.2,2,3,8.3
+5,Dollars,"The Good, the Bad and the Ugly",8.8,3,3,8.3
+6,Once Upon a Time,A Fistful of Dynamite,7.6,2,3,8.2
+6,Once Upon a Time,Once Upon a Time in America,8.4,3,3,8.2
+6,Once Upon a Time,Once Upon a Time in the West,8.5,1,3,8.2
+7,Toy Story,Toy Story 2,7.9,2,4,8.1
+7,Toy Story,Toy Story 3,8.2,3,4,8.1
+7,Toy Story,Toy Story,8.3,1,4,8.1
+8,The Before,Before Midnight,7.9,3,3,8.0
+8,The Before,Before Sunrise,8.1,1,3,8.0
+8,The Before,Before Sunset,8.1,2,3,8.0
+11,Three Colours,Three Colors: White,7.6,2,3,7.9
+11,Three Colours,Three Colors: Blue,7.9,1,3,7.9
+11,Three Colours,Three Colours: Red,8.1,3,3,7.9
+9,Back to the Future,Back to the Future Part III,7.4,3,3,7.9
+9,Back to the Future,Back to the Future Part II,7.8,2,3,7.9
+9,Back to the Future,Back to the Future,8.5,1,3,7.9
+10,The Vengeance,Sympathy for Mr. Vengeance,7.6,1,3,7.9
+10,The Vengeance,Chinjeolhan geumjassi,7.6,3,3,7.9
+10,The Vengeance,Oldboy,8.4,2,3,7.9
+12,Death,Babel,7.4,3,3,7.7
+12,Death,21 Grams,7.6,2,3,7.7
+12,Death,Love's a Bitch,8.1,1,3,7.7
+13,The Hobbit,The Hobbit: The Battle of the Five Armies,7.4,3,3,7.7
+13,The Hobbit,The Hobbit: An Unexpected Journey,7.8,1,3,7.7
+13,The Hobbit,The Hobbit: The Desolation of Smaug,7.8,2,3,7.7
+16,Evil Dead,The Evil Dead,7.5,1,4,7.6
+16,Evil Dead,Army of Darkness,7.5,3,4,7.6
+16,Evil Dead,Evil Dead II,7.7,2,4,7.6
+14,Three Flavours Cornetto,The Matrix Revolutions,6.8,3,3,7.6
+14,Three Flavours Cornetto,The Matrix Reloaded,7.2,2,3,7.6
+14,Three Flavours Cornetto,The Matrix,8.7,1,3,7.6
+17,Captain America,Captain America: The First Avenger,6.9,1,3,7.5
+17,Captain America,Captain America: The Winter Soldier,7.7,2,3,7.5
+17,Captain America,Captain America: Civil War,7.8,3,3,7.5
+15,Matrix,The World's End,7.0,3,3,7.6
+15,Matrix,Hot Fuzz,7.8,2,3,7.6
+15,Matrix,Shaun of the Dead,7.9,1,3,7.6
+18,Millennium,The Girl Who Played with Fire,7.2,2,3,7.4
+18,Millennium,The Girl Who Kicked the Hornets' Nest,7.3,3,3,7.4
+18,Millennium,The Girl with the Dragon Tattoo,7.8,1,3,7.4
+19,Iron Man,Iron Man 2,7.0,2,3,7.3
+19,Iron Man,Iron Man Three,7.1,3,3,7.3
+19,Iron Man,Iron Man,7.9,1,3,7.3
+21,Wolverine,X-Men Origins: Wolverine,6.6,4,10,7.1
+21,Wolverine,The Wolverine,6.7,5,10,7.1
+21,Wolverine,Logan,8.1,6,10,7.1
+20,X-Men,X-Men: The Last Stand,6.7,3,10,7.2
+20,X-Men,X-Men,7.4,1,10,7.2
+20,X-Men,X-Men 2,7.4,2,10,7.2
+22,Ocean's,Ocean's Twelve,6.5,2,4,7.0
+22,Ocean's,Ocean's Thirteen,6.9,3,4,7.0
+22,Ocean's,Ocean's Eleven,7.7,1,4,7.0
+25,Mad Max,Spider-Man 3,6.2,3,3,6.9
+25,Mad Max,Spider-Man,7.3,1,3,6.9
+25,Mad Max,Spider-Man 2,7.3,2,3,6.9
+23,The Naked Gun,Naked Gun 33 1/3: The Final Insult,6.5,3,3,7.0
+23,The Naked Gun,The Naked Gun 2½: The Smell of Fear,6.9,2,3,7.0
+23,The Naked Gun,The Naked Gun: From the Files of Police Squad!,7.6,1,3,7.0
+24,Spider-Man,Mad Max Beyond Thunderdome,6.3,3,4,6.9
+24,Spider-Man,Mad Max,6.9,1,4,6.9
+24,Spider-Man,Mad Max 2,7.6,2,4,6.9
+26,Prequel,Star Wars: Episode I - The Phantom Menace,6.5,1,9,6.8
+26,Prequel,Star Wars: Episode II - Attack of the Clones,6.5,2,9,6.8
+26,Prequel,Star Wars: Episode III - Revenge of the Sith,7.5,3,9,6.8
+29,Madagascar,Madagascar: Escape 2 Africa,6.6,2,3,6.8
+29,Madagascar,Madagascar 3: Europe's Most Wanted,6.8,3,3,6.8
+29,Madagascar,Madagascar,6.9,1,3,6.8
+27,Mexico,Once Upon a Time in Mexico,6.4,3,3,6.8
+27,Mexico,El mariachi,6.9,1,3,6.8
+27,Mexico,Desperado,7.2,2,3,6.8
+28,MIB,Men in Black II,6.2,2,4,6.8
+28,MIB,Men in Black 3,6.8,3,4,6.8
+28,MIB,Men in Black,7.3,1,4,6.8
+30,The Hangover,The Hangover Part III,5.8,3,3,6.6
+30,The Hangover,The Hangover Part II,6.4,2,3,6.6
+30,The Hangover,The Hangover,7.7,1,3,6.6

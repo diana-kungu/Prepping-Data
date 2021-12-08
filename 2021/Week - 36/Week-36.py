@@ -3,7 +3,7 @@ from pandas import ExcelFile, read_excel, Series, pivot_table, merge
 from numpy import mean, where
 
 # Read Data
-with ExcelFile(r'.\2021\Week - 36\Input\Input\Trend Input.xlsx') as xl :
+with ExcelFile(r'.\2021\Week - 36\Input\Trend Input.xlsx') as xl :
     trend = read_excel(xl, sheet_name = 'Timeline', skiprows=2)
     country = read_excel(xl, sheet_name = 'Country Breakdown', skiprows=2 )
 
