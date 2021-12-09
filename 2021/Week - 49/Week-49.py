@@ -15,7 +15,6 @@ def normal_round(n):
 #Read Data
 df =read_csv(r'.\2021\Week - 49\Input\Week-49-Input.csv', parse_dates=['Date'], dayfirst= True)
 
-
 # Process Data
 df['Monthly Salary'] = df['Annual Salary'].apply(lambda x: round(x/12, 2))
 
