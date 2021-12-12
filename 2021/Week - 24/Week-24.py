@@ -1,5 +1,4 @@
 
-from numpy.core.fromnumeric import reshape
 from pandas import ExcelFile, read_excel, date_range
 from datetime import timedelta
 
