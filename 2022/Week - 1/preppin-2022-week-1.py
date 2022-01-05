@@ -3,7 +3,6 @@
 from pandas import read_csv, date_range, DataFrame, PeriodIndex
 from numpy import where
 from pandas.testing import assert_frame_equal # testing output
-from os import getcwd
 
 
 #Read Data
