@@ -1,7 +1,7 @@
-[Twitter](https://twitter.com/d_kungu)         | [LinkedIn]()
+[Twitter](https://twitter.com/d_kungu)         | [LinkedIn](https://www.linkedin.com/in/dianakungu/)
 
 # Prepping Data
-[Prepping Data](https://www.preppindata.com/) is a weekly challenge with goal to practice data preparation/cleaning. Though the challenge is geared to Tableau Prep community any tool can be used and I have used python. This repository consists all completed script and python function index used in the challenge.
+[Prepping Data](https://www.preppindata.com/) is a weekly challenge with goal to practice data preparation/cleaning. This repository consists all completed weekly challenges,  data and python function index used in the challenges.
  
 
 ## Preppin' Data 2021
