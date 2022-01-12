@@ -5,7 +5,7 @@
  
 
 ## Preppin' Data 2022
-|[Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py)|[**Week 2**] | [**Week 3**] | [**Week 4**]| [**Week 5**]|  [**Week 6**]|
+|[Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py)|[Week 2](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%202/Preppin-2022-%20week-2.py) | [**Week 3**] | [**Week 4**]| [**Week 5**]|  [**Week 6**]|
 | --- | --- | --- | --- | --- | --- |
 
 
@@ -16,7 +16,8 @@
 |**Group **| **Function /Method** | **Weeks**|
 | --- | --- | ----|
 |I/O|`Read_csv`| [Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py)|
-|**Numpy**|`where`|[Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py)|
-|**Datetime**|`PeriodIndex` <br> `strftime`|[Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py)<br> [Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py)|
+|**Numpy**|`where`|[Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py) [Week 2](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%202/Preppin-2022-%20week-2.py)|
+|**Datetime**|`PeriodIndex` <br> `strftime` <br> `.dt methods`|[Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py)<br> [Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py)<br> [Week 2](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%202/Preppin-2022-%20week-2.py)|
 |**Testing**|`assert_frame_equal`|[Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py)|
-|**Mapping**|`map + lambda`|[Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py)|
+|**Mapping**|`map + lambda`|[Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py) [Week 2](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%202/Preppin-2022-%20week-2.py)|
+|**Grouping**|`Groupby + transform`|[Week 2](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%202/Preppin-2022-%20week-2.py)|
