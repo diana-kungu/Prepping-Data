@@ -13,7 +13,7 @@
 ## Python Functions/Method Index
 
 
-|**Group **| **Function /Method** | **Weeks**|
+|**Category**| **Function /Method** | **Weeks**|
 | --- | --- | ----|
 |I/O|`Read_csv`| [Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py)|
 |**Numpy**|`where`|[Week 1](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%201/preppin-2022-week-1.py) [Week 2](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%202/Preppin-2022-%20week-2.py)|
