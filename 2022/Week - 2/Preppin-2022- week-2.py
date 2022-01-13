@@ -3,6 +3,7 @@
 # Import Libraries
 from pandas import read_csv
 from numpy import where
+from datetime import datetime
 from pandas.testing import assert_frame_equal # testing output
 
 
@@ -16,7 +17,7 @@ df = read_csv(r'.\2022\Week - 1\Input\preppin_input_week_1.csv', parse_dates=['D
 # Creaate pupils names and This years's Birthday field
 df["Pupil Name"] = df['pupil first name'] +' ' +  df['pupil last name']  
 df = df[["Pupil Name", "Date of Birth"]].copy()
-df["This Year's Birthday"] = df['Date of Birth'].map(lambda x: x.replace(year=2022))
+df["This Year's Birthday"] = df['Date of Birth'].map(lambda x: x.replace(year= datetime.now().year))
 # %Birthday Month and day of week (where BD falls on weekend shift to Friday)
 df["Month"] = df["This Year's Birthday"].dt.month_name()
 df["Cake Needed On"] = df["This Year's Birthday"].dt.day_name()
