@@ -36,5 +36,6 @@ assert_frame_equal(results, df)
 
 #OUTPUT
 df.to_csv(r'.\2022\Week - 2\Output\birthday_schedule.csv', index=False)
+print("end")
 
 
