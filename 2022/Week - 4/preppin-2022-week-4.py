@@ -3,7 +3,7 @@ from pandas import read_csv,  melt
 
 
 #READ Data
-df_trans = read_csv(r'.\Input Data\PD 2021 WK 1 to 4 ideas - Preferences of Travel.csv')
+df_trans = read_csv(r'.\Week - 4\Input Data\PD 2021 WK 1 to 4 ideas - Preferences of Travel.csv')
 
 # Process data
 #Melt 
@@ -36,5 +36,6 @@ df_trans['% of Trips per day'] = round(df_trans['trips'] /df_trans['Trips per da
 
 #Output
 df_trans.to_csv(r'.\Week - 4\Output\week4-output.csv') 
+print('end')
 
 
