@@ -1,0 +1,40 @@
+,Sustainable?,Method of Travel,Weekday,Trips per day,trips,% of Trips per day
+0,Non-Sustainable,Aeroplane,F,1000,9,0.01
+1,Non-Sustainable,Aeroplane,M,1000,9,0.01
+2,Non-Sustainable,Aeroplane,Th,1000,9,0.01
+3,Non-Sustainable,Aeroplane,Tu,1000,9,0.01
+4,Non-Sustainable,Aeroplane,W,1000,9,0.01
+5,Non-Sustainable,Car,F,1000,254,0.25
+6,Non-Sustainable,Car,M,1000,422,0.42
+7,Non-Sustainable,Car,Th,1000,302,0.3
+8,Non-Sustainable,Car,Tu,1000,364,0.36
+9,Non-Sustainable,Car,W,1000,413,0.41
+10,Non-Sustainable,Helicopter,M,1000,72,0.07
+11,Non-Sustainable,Helicopter,Th,1000,24,0.02
+12,Non-Sustainable,Van,F,1000,46,0.05
+13,Non-Sustainable,Van,M,1000,37,0.04
+14,Non-Sustainable,Van,Tu,1000,46,0.05
+15,Non-Sustainable,Van,W,1000,33,0.03
+16,Sustainable,Bicycle,F,1000,173,0.17
+17,Sustainable,Bicycle,M,1000,210,0.21
+18,Sustainable,Bicycle,Th,1000,62,0.06
+19,Sustainable,Bicycle,Tu,1000,220,0.22
+20,Sustainable,Bicycle,W,1000,207,0.21
+21,Sustainable,Dad's Shoulders,Th,1000,9,0.01
+22,Sustainable,Dad's Shoulders,Tu,1000,15,0.02
+23,Sustainable,Hopped,M,1000,3,0.0
+24,Sustainable,Jumped,W,1000,3,0.0
+25,Sustainable,Mum's Shoulders,F,1000,24,0.02
+26,Sustainable,Mum's Shoulders,M,1000,9,0.01
+27,Sustainable,Mum's Shoulders,W,1000,13,0.01
+28,Sustainable,Scooter,F,1000,168,0.17
+29,Sustainable,Scooter,M,1000,84,0.08
+30,Sustainable,Scooter,Th,1000,84,0.08
+31,Sustainable,Scooter,Tu,1000,84,0.08
+32,Sustainable,Scooter,W,1000,168,0.17
+33,Sustainable,Skipped,Tu,1000,3,0.0
+34,Sustainable,Walk,F,1000,326,0.33
+35,Sustainable,Walk,M,1000,154,0.15
+36,Sustainable,Walk,Th,1000,510,0.51
+37,Sustainable,Walk,Tu,1000,259,0.26
+38,Sustainable,Walk,W,1000,154,0.15
