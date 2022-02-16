@@ -1,6 +1,6 @@
 # 
 #Import Libraries
-from pandas import ExcelFile, read_excel, merge
+from pandas import ExcelFile, read_excel
 from collections import Counter
 from numpy import prod
 
