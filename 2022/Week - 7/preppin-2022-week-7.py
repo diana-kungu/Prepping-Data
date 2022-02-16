@@ -1,6 +1,6 @@
 # Prepping Data Week 7
 #Load Libraries
-from pandas import read_excel, ExcelFile, concat, merge, to_datetime
+from pandas import read_excel, ExcelFile, concat, merge
 from datetime import datetime
 from numpy import where
 
