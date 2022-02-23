@@ -29,5 +29,5 @@
 |**Collections Module**|`counter`|[Week 6](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%206/preppin-2022-week-6.py)|
 |**Others**|`Rename`|[Week 7](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%207/preppin-2022-week-7.py) [Week 8](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%208/prepping-2022-week-8.py)|
 |**Regex**||[Week 7](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%207/preppin-2022-week-7.py)|
-|**Ordering**|`Rank` <br> Sort`|[Week 7](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%207/preppin-2022-week-7.py) <br> [Week 8](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%208/prepping-2022-week-8.py)|
+|**Ordering**|`Rank` <br> `Sort`|[Week 7](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%207/preppin-2022-week-7.py) <br> [Week 8](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%208/prepping-2022-week-8.py)|
 
