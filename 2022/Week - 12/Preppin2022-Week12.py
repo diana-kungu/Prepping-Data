@@ -1,4 +1,4 @@
-# %% Prepping data week 12
+# Prepping data week 12
 # Load Libraries
 from pandas import read_csv, concat, merge
 import zipfile
