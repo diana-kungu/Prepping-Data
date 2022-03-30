@@ -29,8 +29,7 @@ select_percent = int(input('Enter a percent Value'))
 
 # Filter data based on selected % 
 df_select_percent = df[df['Running % of Total'] <= select_percent]
-print(f'{round(len(df_select_percent)*100/len(df))}% of Customers account \
-      for {select_percent}% of Sales ')
+print(f'{round(len(df_select_percent)*100/len(df))}% of Customers account for {select_percent}% of Sales ')
 
 df_select_percent
 
