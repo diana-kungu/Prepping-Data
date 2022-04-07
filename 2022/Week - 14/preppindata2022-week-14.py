@@ -12,7 +12,7 @@ df = (read_csv(r'.\2022\Week - 14\Input\Richard Osmans House of Games - Episode 
          '4th', 'Ser..1', 'Wk..1', '4-Player Total', 'Seat'], axis=1).
     dropna(how='all', axis=1)
 )
-print(df.columns)
+
 #  Rename certain fields to remove duplication
 df.rename(columns = {'Ser.': 'Series', 'Wk.': 'Week', 'T': 'Tu', 'T.1': 'Th',
     'Total': 'Score', 'Week': 'Points', 'Week.1': 'Original Rank', 'F.1': 'Fri Rank'}, inplace = True)
