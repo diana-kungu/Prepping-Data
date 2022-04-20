@@ -2,12 +2,12 @@ Guest Name,Course,Recipe ID,Dish
 Carl,Starters,18,Prawn Cocktail
 Carl,Mains,128,Duck a l'orange
 Carl,Dessert,356,Chocolate Bombe
-Tom,Dessert,44,Smoked Salmon
+Tom,Starters,44,Smoked Salmon
 Tom,Mains,204,Moules-Frites
 Tom,Dessert,384,Sticky Toffee Pudding
 Jenny,Starters,36,Camembert
-Jenny,Starters,234,Daal
+Jenny,Mains,234,Daal
 Jenny,Dessert,426,Avocado Chocolate Mousse
-Jonathan,Mains,426,Avocado Chocolate Mousse
+Jonathan,Dessert,426,Avocado Chocolate Mousse
 Jonathan,Starters,60,Cauliflower Hot Wings
 Jonathan,Mains,296,Butternut Squash Risotto

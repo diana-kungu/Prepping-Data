@@ -13,7 +13,7 @@ with ExcelFile(r'.\2022\Week - 16\Input\Menu Input.xlsx') as xl :
 # Split by blank column
 df_list = hsplit(df, df.columns[df.isnull().all()])
 
-##Reshape the Orders table so that we have 3 columns:
+##Reshape the Orders table so that we h ave 3 columns:
 # Guest name, Dish, Selections (containing 🗸 or null)
 df_reshaped = []
 for df_guest in df_list:
@@ -23,6 +23,8 @@ for df_guest in df_list:
     df_reshaped.append(df_guest)
 df = concat(df_reshaped, ignore_index= True)
 
+#Rename course
+df.Dish = df.Dish.replace(['Starter', 'Main', 'Desserts'], ['Starters', 'Mains', 'Dessert'])
 #Extract the course name from the Dish field
 courses_splt = df[df['Dish'].isin(['Starters', 'Mains', 'Dessert'])].index[1:]
 df = concat([i.assign(Course= i.iloc[0]['Dish']) for i in split(df, courses_splt)])
