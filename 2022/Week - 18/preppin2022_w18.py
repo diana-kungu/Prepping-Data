@@ -12,9 +12,11 @@ df[['Bike Type', 'Date', 'Measure Name']] =df['variable'].str.split('___', expan
 df['Date'] = to_datetime('01_'+ df['Date'], format= '%d_%b_%y')
 
 #Create a field for Sales and Profit
-df = pivot_table(df, values= 'value', index =['Region', 'Bike Type', 'Date'], 
-            columns='Measure Name', aggfunc='first').reset_index().rename_axis(None, axis=1)
-
+df = (pivot_table(df, values= 'value', index =['Region', 'Bike Type', 'Date'], 
+            columns='Measure Name', aggfunc='first')
+      .reset_index()
+      .rename_axis(None, axis=1)
+     )
 # Output
 df.to_csv(r'.\2022\Week - 18\Output\allchains_w18.csv', index= False)
 print('End')
