@@ -9,7 +9,7 @@
 | --- | --- | --- | --- | --- | --- |
 |[**Week 7**](https://github.com/diana-kungu/Prepping-Data/tree/master/2022/Week%20-%207)|[**Week 8**](https://github.com/diana-kungu/Prepping-Data/tree/master/2022/Week%20-%208)|[**Week 9**](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%209/preppin2022-week-9.py)|[**Week 10**](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%2010/Preppin2022-week-10.py)|[**Week 11**](https://github.com/diana-kungu/Prepping-Data/tree/master/2022/Week%20-%2011)|[**Week 12**](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%2012/Preppin2022-Week12.py)|
 |[**Week 13**](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%2013/Preppin2022-Week13.py)|[**Week 14**](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%2014/preppindata2022-week-14.py)|[**Week 15**](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%2015/Preppin-data_2022-week15.py)|[**Week 16**](https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%2016/preppindata_2022_week_16.py)|[**Week 17**](https://github.com/diana-kungu/Prepping-Data/tree/master/2022/Week%20-%2017)|[**Week 18**](https://github.com/diana-kungu/Prepping-Data/tree/master/2022/Week%20-%2018)|
-|**Week 19**|(https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%2019/Preppin2022-W19.py)|||
+|**Week 19**(https://github.com/diana-kungu/Prepping-Data/blob/master/2022/Week%20-%2019/Preppin2022-W19.py)|||
 
 
  
