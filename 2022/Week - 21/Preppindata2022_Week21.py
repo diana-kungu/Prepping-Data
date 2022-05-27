@@ -1,6 +1,5 @@
 # load libraries
 from pandas import read_excel, ExcelFile, concat, melt, pivot_table, merge
-from numpy import where
 
 # Read Data
 workbook =  ExcelFile(r'.\2022\Week - 21\Input\2022W21 Input.xlsx')
@@ -9,7 +8,7 @@ df = (concat([read_excel(workbook, sheet_name = s, skiprows=3, nrows=11,
                    usecols=lambda x: x if not str(x).startswith('FY') and x != 'Comments' else None )
               .assign(Store= s) for s in sheets ], ignore_index= True )
               .ffill()
-     )
+)
 
 #Reshape the data so that we have a Date field
 df = melt(df, id_vars=['Department' ,'Target', 'Breakdown', 'Store'], var_name= 'Date')
