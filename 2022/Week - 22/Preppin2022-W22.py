@@ -60,3 +60,5 @@ cols = ['Episode', 'name', 'time_in_secs', 'duration', 'youtube_timestamp',
         'dialogue', 'section']
 df.to_csv(r'.\2022\Week - 22\Output\critical_game.csv', columns=cols,
           index=False)
+
+print('prepped!')
