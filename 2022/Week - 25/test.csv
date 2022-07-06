@@ -1,0 +1,286 @@
+Party,Adults_guests,Children_guests,Double/Twin,Requires Accessible Room?,Additional Requests,Room,Adults_rooms,Children_rooms,Features,Request Met?,Total Requests,Request Satisfaction %
+Aarons,2,0,Twin,N,Bath,301,2,0.0,"Near to lift, Twin",0,1,0.0
+Aarons,2,0,Twin,N,Bath,302,2,1.0,"Bath, Twin",1,1,100.0
+Aarons,2,0,Twin,N,Bath,303,2,0.0,"Bath, Twin",1,1,100.0
+Aarons,2,0,Twin,N,Bath,304,2,1.0,"Bath, Twin",1,1,100.0
+Aarons,2,0,Twin,N,Bath,401,2,0.0,"High Floor, Bath, Near to lift, Twin",1,1,100.0
+Aarons,2,0,Twin,N,Bath,402,2,1.0,"High Floor, Bath, Twin",1,1,100.0
+Aarons,2,0,Twin,N,Bath,403,2,1.0,"High Floor, Twin",0,1,0.0
+Aarons,2,0,Twin,N,Bath,404,2,1.0,"High Floor, Twin",0,1,0.0
+Aarons,2,0,Twin,N,Bath,405,2,0.0,"High Floor, Bath, Twin",1,1,100.0
+Aarons,2,0,Twin,N,Bath,406,2,0.0,"High Floor, Twin",0,1,0.0
+Aarons,2,0,Twin,N,Bath,407,2,0.0,"High Floor, Bath, Twin",1,1,100.0
+Aarons,2,0,Twin,N,Bath,408,2,0.0,"High Floor, Twin",0,1,0.0
+Abramowitz,2,1,Double,N,"Bath, High Floor",203,2,1.0,Double,0,2,0.0
+Abramowitz,2,1,Double,N,"Bath, High Floor",206,2,1.0,"Bath, Double",1,2,50.0
+Abramowitz,2,1,Double,N,"Bath, High Floor",208,2,1.0,Double,0,2,0.0
+Abramowitz,2,1,Double,N,"Bath, High Floor",306,2,1.0,Double,0,2,0.0
+Abramowitz,2,1,Double,N,"Bath, High Floor",307,2,1.0,"Bath, Double",1,2,50.0
+Abramowitz,2,1,Double,N,"Bath, High Floor",501,2,1.0,"High Floor, Bath, Near to lift, Double",2,2,100.0
+Abramowitz,2,1,Double,N,"Bath, High Floor",503,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Abramowitz,2,1,Double,N,"Bath, High Floor",504,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Abramowitz,2,1,Double,N,"Bath, High Floor",506,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Abramowitz,2,1,Double,N,"Bath, High Floor",507,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Baxstare,1,1,Double,N,"Bath, High Floor",203,2,1.0,Double,0,2,0.0
+Baxstare,1,1,Double,N,"Bath, High Floor",206,2,1.0,"Bath, Double",1,2,50.0
+Baxstare,1,1,Double,N,"Bath, High Floor",208,2,1.0,Double,0,2,0.0
+Baxstare,1,1,Double,N,"Bath, High Floor",306,2,1.0,Double,0,2,0.0
+Baxstare,1,1,Double,N,"Bath, High Floor",307,2,1.0,"Bath, Double",1,2,50.0
+Baxstare,1,1,Double,N,"Bath, High Floor",501,2,1.0,"High Floor, Bath, Near to lift, Double",2,2,100.0
+Baxstare,1,1,Double,N,"Bath, High Floor",503,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Baxstare,1,1,Double,N,"Bath, High Floor",504,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Baxstare,1,1,Double,N,"Bath, High Floor",506,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Baxstare,1,1,Double,N,"Bath, High Floor",507,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",101,2,0.0,"Accessible, Near to lift, Double",0,2,0.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",102,2,0.0,"Accessible, Double",1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",103,2,0.0,"Accessible, Double",1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",104,2,0.0,"Accessible, Double",1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",201,2,0.0,"Near to lift, Double",0,2,0.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",202,2,0.0,"Bath,Double",1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",203,2,1.0,Double,1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",204,2,0.0,"Bath, Double",1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",205,2,0.0,Double,1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",206,2,1.0,"Bath, Double",1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",207,2,0.0,"Bath, Double",1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",208,2,1.0,Double,1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",305,2,0.0,Double,1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",306,2,1.0,Double,1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",307,2,1.0,"Bath, Double",1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",308,2,0.0,"Bath, Double",1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",501,2,1.0,"High Floor, Bath, Near to lift, Double",1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",502,2,0.0,"High Floor, Bath, Double",2,2,100.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",503,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",504,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",505,2,0.0,"High Floor, Bath, Double",2,2,100.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",506,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",507,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",508,2,0.0,"High Floor, Double",2,2,100.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",601,4,0.0,"High Floor, Bath, Near to lift, Double",1,2,50.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",602,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",603,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Chese,2,0,Double,N,"High Floor, NOT Near to lift",604,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Corain,4,0,Double,N,"Bath, High Floor, NOT Near to lift",601,4,0.0,"High Floor, Bath, Near to lift, Double",2,3,66.66666666666667
+Corain,4,0,Double,N,"Bath, High Floor, NOT Near to lift",602,4,0.0,"High Floor, Bath, Double",3,3,100.0
+Corain,4,0,Double,N,"Bath, High Floor, NOT Near to lift",603,4,0.0,"High Floor, Bath, Double",3,3,100.0
+Corain,4,0,Double,N,"Bath, High Floor, NOT Near to lift",604,4,0.0,"High Floor, Bath, Double",3,3,100.0
+Gendrich,3,0,Double,N,"Bath, High Floor",601,4,0.0,"High Floor, Bath, Near to lift, Double",2,2,100.0
+Gendrich,3,0,Double,N,"Bath, High Floor",602,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Gendrich,3,0,Double,N,"Bath, High Floor",603,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Gendrich,3,0,Double,N,"Bath, High Floor",604,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Ghiriardelli,2,0,Double,N,Bath,101,2,0.0,"Accessible, Near to lift, Double",0,1,0.0
+Ghiriardelli,2,0,Double,N,Bath,102,2,0.0,"Accessible, Double",0,1,0.0
+Ghiriardelli,2,0,Double,N,Bath,103,2,0.0,"Accessible, Double",0,1,0.0
+Ghiriardelli,2,0,Double,N,Bath,104,2,0.0,"Accessible, Double",0,1,0.0
+Ghiriardelli,2,0,Double,N,Bath,201,2,0.0,"Near to lift, Double",0,1,0.0
+Ghiriardelli,2,0,Double,N,Bath,202,2,0.0,"Bath,Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,203,2,1.0,Double,0,1,0.0
+Ghiriardelli,2,0,Double,N,Bath,204,2,0.0,"Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,205,2,0.0,Double,0,1,0.0
+Ghiriardelli,2,0,Double,N,Bath,206,2,1.0,"Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,207,2,0.0,"Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,208,2,1.0,Double,0,1,0.0
+Ghiriardelli,2,0,Double,N,Bath,305,2,0.0,Double,0,1,0.0
+Ghiriardelli,2,0,Double,N,Bath,306,2,1.0,Double,0,1,0.0
+Ghiriardelli,2,0,Double,N,Bath,307,2,1.0,"Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,308,2,0.0,"Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,501,2,1.0,"High Floor, Bath, Near to lift, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,502,2,0.0,"High Floor, Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,503,2,1.0,"High Floor, Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,504,2,1.0,"High Floor, Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,505,2,0.0,"High Floor, Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,506,2,1.0,"High Floor, Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,507,2,1.0,"High Floor, Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,508,2,0.0,"High Floor, Double",0,1,0.0
+Ghiriardelli,2,0,Double,N,Bath,601,4,0.0,"High Floor, Bath, Near to lift, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,602,4,0.0,"High Floor, Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,603,4,0.0,"High Floor, Bath, Double",1,1,100.0
+Ghiriardelli,2,0,Double,N,Bath,604,4,0.0,"High Floor, Bath, Double",1,1,100.0
+Gubbins,2,0,Twin,N,"Bath, High Floor",301,2,0.0,"Near to lift, Twin",0,2,0.0
+Gubbins,2,0,Twin,N,"Bath, High Floor",302,2,1.0,"Bath, Twin",1,2,50.0
+Gubbins,2,0,Twin,N,"Bath, High Floor",303,2,0.0,"Bath, Twin",1,2,50.0
+Gubbins,2,0,Twin,N,"Bath, High Floor",304,2,1.0,"Bath, Twin",1,2,50.0
+Gubbins,2,0,Twin,N,"Bath, High Floor",401,2,0.0,"High Floor, Bath, Near to lift, Twin",2,2,100.0
+Gubbins,2,0,Twin,N,"Bath, High Floor",402,2,1.0,"High Floor, Bath, Twin",2,2,100.0
+Gubbins,2,0,Twin,N,"Bath, High Floor",403,2,1.0,"High Floor, Twin",1,2,50.0
+Gubbins,2,0,Twin,N,"Bath, High Floor",404,2,1.0,"High Floor, Twin",1,2,50.0
+Gubbins,2,0,Twin,N,"Bath, High Floor",405,2,0.0,"High Floor, Bath, Twin",2,2,100.0
+Gubbins,2,0,Twin,N,"Bath, High Floor",406,2,0.0,"High Floor, Twin",1,2,50.0
+Gubbins,2,0,Twin,N,"Bath, High Floor",407,2,0.0,"High Floor, Bath, Twin",2,2,100.0
+Gubbins,2,0,Twin,N,"Bath, High Floor",408,2,0.0,"High Floor, Twin",1,2,50.0
+Guisler,1,0,Twin,N,"Bath, High Floor, NOT Near to lift",301,2,0.0,"Near to lift, Twin",0,3,0.0
+Guisler,1,0,Twin,N,"Bath, High Floor, NOT Near to lift",302,2,1.0,"Bath, Twin",2,3,66.66666666666667
+Guisler,1,0,Twin,N,"Bath, High Floor, NOT Near to lift",303,2,0.0,"Bath, Twin",2,3,66.66666666666667
+Guisler,1,0,Twin,N,"Bath, High Floor, NOT Near to lift",304,2,1.0,"Bath, Twin",2,3,66.66666666666667
+Guisler,1,0,Twin,N,"Bath, High Floor, NOT Near to lift",401,2,0.0,"High Floor, Bath, Near to lift, Twin",2,3,66.66666666666667
+Guisler,1,0,Twin,N,"Bath, High Floor, NOT Near to lift",402,2,1.0,"High Floor, Bath, Twin",3,3,100.0
+Guisler,1,0,Twin,N,"Bath, High Floor, NOT Near to lift",403,2,1.0,"High Floor, Twin",2,3,66.66666666666667
+Guisler,1,0,Twin,N,"Bath, High Floor, NOT Near to lift",404,2,1.0,"High Floor, Twin",2,3,66.66666666666667
+Guisler,1,0,Twin,N,"Bath, High Floor, NOT Near to lift",405,2,0.0,"High Floor, Bath, Twin",3,3,100.0
+Guisler,1,0,Twin,N,"Bath, High Floor, NOT Near to lift",406,2,0.0,"High Floor, Twin",2,3,66.66666666666667
+Guisler,1,0,Twin,N,"Bath, High Floor, NOT Near to lift",407,2,0.0,"High Floor, Bath, Twin",3,3,100.0
+Guisler,1,0,Twin,N,"Bath, High Floor, NOT Near to lift",408,2,0.0,"High Floor, Twin",2,3,66.66666666666667
+Henriquet,2,1,Double,N,"Bath, High Floor",203,2,1.0,Double,0,2,0.0
+Henriquet,2,1,Double,N,"Bath, High Floor",206,2,1.0,"Bath, Double",1,2,50.0
+Henriquet,2,1,Double,N,"Bath, High Floor",208,2,1.0,Double,0,2,0.0
+Henriquet,2,1,Double,N,"Bath, High Floor",306,2,1.0,Double,0,2,0.0
+Henriquet,2,1,Double,N,"Bath, High Floor",307,2,1.0,"Bath, Double",1,2,50.0
+Henriquet,2,1,Double,N,"Bath, High Floor",501,2,1.0,"High Floor, Bath, Near to lift, Double",2,2,100.0
+Henriquet,2,1,Double,N,"Bath, High Floor",503,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Henriquet,2,1,Double,N,"Bath, High Floor",504,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Henriquet,2,1,Double,N,"Bath, High Floor",506,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Henriquet,2,1,Double,N,"Bath, High Floor",507,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Iczokvitz,2,0,Double,Y,Bath,101,2,0.0,"Accessible, Near to lift, Double",0,1,0.0
+Iczokvitz,2,0,Double,Y,Bath,102,2,0.0,"Accessible, Double",0,1,0.0
+Iczokvitz,2,0,Double,Y,Bath,103,2,0.0,"Accessible, Double",0,1,0.0
+Iczokvitz,2,0,Double,Y,Bath,104,2,0.0,"Accessible, Double",0,1,0.0
+Jeannel,1,0,Twin,N,"High Floor, NOT Near to lift",301,2,0.0,"Near to lift, Twin",0,2,0.0
+Jeannel,1,0,Twin,N,"High Floor, NOT Near to lift",302,2,1.0,"Bath, Twin",1,2,50.0
+Jeannel,1,0,Twin,N,"High Floor, NOT Near to lift",303,2,0.0,"Bath, Twin",1,2,50.0
+Jeannel,1,0,Twin,N,"High Floor, NOT Near to lift",304,2,1.0,"Bath, Twin",1,2,50.0
+Jeannel,1,0,Twin,N,"High Floor, NOT Near to lift",401,2,0.0,"High Floor, Bath, Near to lift, Twin",1,2,50.0
+Jeannel,1,0,Twin,N,"High Floor, NOT Near to lift",402,2,1.0,"High Floor, Bath, Twin",2,2,100.0
+Jeannel,1,0,Twin,N,"High Floor, NOT Near to lift",403,2,1.0,"High Floor, Twin",2,2,100.0
+Jeannel,1,0,Twin,N,"High Floor, NOT Near to lift",404,2,1.0,"High Floor, Twin",2,2,100.0
+Jeannel,1,0,Twin,N,"High Floor, NOT Near to lift",405,2,0.0,"High Floor, Bath, Twin",2,2,100.0
+Jeannel,1,0,Twin,N,"High Floor, NOT Near to lift",406,2,0.0,"High Floor, Twin",2,2,100.0
+Jeannel,1,0,Twin,N,"High Floor, NOT Near to lift",407,2,0.0,"High Floor, Bath, Twin",2,2,100.0
+Jeannel,1,0,Twin,N,"High Floor, NOT Near to lift",408,2,0.0,"High Floor, Twin",2,2,100.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",101,2,0.0,"Accessible, Near to lift, Double",0,2,0.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",102,2,0.0,"Accessible, Double",1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",103,2,0.0,"Accessible, Double",1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",104,2,0.0,"Accessible, Double",1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",201,2,0.0,"Near to lift, Double",0,2,0.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",202,2,0.0,"Bath,Double",1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",203,2,1.0,Double,1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",204,2,0.0,"Bath, Double",1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",205,2,0.0,Double,1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",206,2,1.0,"Bath, Double",1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",207,2,0.0,"Bath, Double",1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",208,2,1.0,Double,1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",305,2,0.0,Double,1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",306,2,1.0,Double,1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",307,2,1.0,"Bath, Double",1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",308,2,0.0,"Bath, Double",1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",501,2,1.0,"High Floor, Bath, Near to lift, Double",1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",502,2,0.0,"High Floor, Bath, Double",2,2,100.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",503,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",504,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",505,2,0.0,"High Floor, Bath, Double",2,2,100.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",506,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",507,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",508,2,0.0,"High Floor, Double",2,2,100.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",601,4,0.0,"High Floor, Bath, Near to lift, Double",1,2,50.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",602,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",603,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Jirousek,2,0,Double,N,"High Floor, NOT Near to lift",604,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Josefer,1,1,Double,N,"Bath, NOT Near to lift",203,2,1.0,Double,1,2,50.0
+Josefer,1,1,Double,N,"Bath, NOT Near to lift",206,2,1.0,"Bath, Double",2,2,100.0
+Josefer,1,1,Double,N,"Bath, NOT Near to lift",208,2,1.0,Double,1,2,50.0
+Josefer,1,1,Double,N,"Bath, NOT Near to lift",306,2,1.0,Double,1,2,50.0
+Josefer,1,1,Double,N,"Bath, NOT Near to lift",307,2,1.0,"Bath, Double",2,2,100.0
+Josefer,1,1,Double,N,"Bath, NOT Near to lift",501,2,1.0,"High Floor, Bath, Near to lift, Double",1,2,50.0
+Josefer,1,1,Double,N,"Bath, NOT Near to lift",503,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Josefer,1,1,Double,N,"Bath, NOT Near to lift",504,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Josefer,1,1,Double,N,"Bath, NOT Near to lift",506,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Josefer,1,1,Double,N,"Bath, NOT Near to lift",507,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Kelle,1,1,Twin,N,Bath,302,2,1.0,"Bath, Twin",1,1,100.0
+Kelle,1,1,Twin,N,Bath,304,2,1.0,"Bath, Twin",1,1,100.0
+Kelle,1,1,Twin,N,Bath,402,2,1.0,"High Floor, Bath, Twin",1,1,100.0
+Kelle,1,1,Twin,N,Bath,403,2,1.0,"High Floor, Twin",0,1,0.0
+Kelle,1,1,Twin,N,Bath,404,2,1.0,"High Floor, Twin",0,1,0.0
+Lansdale,1,0,Twin,N,High Floor,301,2,0.0,"Near to lift, Twin",0,1,0.0
+Lansdale,1,0,Twin,N,High Floor,302,2,1.0,"Bath, Twin",0,1,0.0
+Lansdale,1,0,Twin,N,High Floor,303,2,0.0,"Bath, Twin",0,1,0.0
+Lansdale,1,0,Twin,N,High Floor,304,2,1.0,"Bath, Twin",0,1,0.0
+Lansdale,1,0,Twin,N,High Floor,401,2,0.0,"High Floor, Bath, Near to lift, Twin",1,1,100.0
+Lansdale,1,0,Twin,N,High Floor,402,2,1.0,"High Floor, Bath, Twin",1,1,100.0
+Lansdale,1,0,Twin,N,High Floor,403,2,1.0,"High Floor, Twin",1,1,100.0
+Lansdale,1,0,Twin,N,High Floor,404,2,1.0,"High Floor, Twin",1,1,100.0
+Lansdale,1,0,Twin,N,High Floor,405,2,0.0,"High Floor, Bath, Twin",1,1,100.0
+Lansdale,1,0,Twin,N,High Floor,406,2,0.0,"High Floor, Twin",1,1,100.0
+Lansdale,1,0,Twin,N,High Floor,407,2,0.0,"High Floor, Bath, Twin",1,1,100.0
+Lansdale,1,0,Twin,N,High Floor,408,2,0.0,"High Floor, Twin",1,1,100.0
+Londer,1,0,Twin,N,"High Floor, NOT Near to lift",301,2,0.0,"Near to lift, Twin",0,2,0.0
+Londer,1,0,Twin,N,"High Floor, NOT Near to lift",302,2,1.0,"Bath, Twin",1,2,50.0
+Londer,1,0,Twin,N,"High Floor, NOT Near to lift",303,2,0.0,"Bath, Twin",1,2,50.0
+Londer,1,0,Twin,N,"High Floor, NOT Near to lift",304,2,1.0,"Bath, Twin",1,2,50.0
+Londer,1,0,Twin,N,"High Floor, NOT Near to lift",401,2,0.0,"High Floor, Bath, Near to lift, Twin",1,2,50.0
+Londer,1,0,Twin,N,"High Floor, NOT Near to lift",402,2,1.0,"High Floor, Bath, Twin",2,2,100.0
+Londer,1,0,Twin,N,"High Floor, NOT Near to lift",403,2,1.0,"High Floor, Twin",2,2,100.0
+Londer,1,0,Twin,N,"High Floor, NOT Near to lift",404,2,1.0,"High Floor, Twin",2,2,100.0
+Londer,1,0,Twin,N,"High Floor, NOT Near to lift",405,2,0.0,"High Floor, Bath, Twin",2,2,100.0
+Londer,1,0,Twin,N,"High Floor, NOT Near to lift",406,2,0.0,"High Floor, Twin",2,2,100.0
+Londer,1,0,Twin,N,"High Floor, NOT Near to lift",407,2,0.0,"High Floor, Bath, Twin",2,2,100.0
+Londer,1,0,Twin,N,"High Floor, NOT Near to lift",408,2,0.0,"High Floor, Twin",2,2,100.0
+Marusik,1,0,Twin,N,"Bath, High Floor",301,2,0.0,"Near to lift, Twin",0,2,0.0
+Marusik,1,0,Twin,N,"Bath, High Floor",302,2,1.0,"Bath, Twin",1,2,50.0
+Marusik,1,0,Twin,N,"Bath, High Floor",303,2,0.0,"Bath, Twin",1,2,50.0
+Marusik,1,0,Twin,N,"Bath, High Floor",304,2,1.0,"Bath, Twin",1,2,50.0
+Marusik,1,0,Twin,N,"Bath, High Floor",401,2,0.0,"High Floor, Bath, Near to lift, Twin",2,2,100.0
+Marusik,1,0,Twin,N,"Bath, High Floor",402,2,1.0,"High Floor, Bath, Twin",2,2,100.0
+Marusik,1,0,Twin,N,"Bath, High Floor",403,2,1.0,"High Floor, Twin",1,2,50.0
+Marusik,1,0,Twin,N,"Bath, High Floor",404,2,1.0,"High Floor, Twin",1,2,50.0
+Marusik,1,0,Twin,N,"Bath, High Floor",405,2,0.0,"High Floor, Bath, Twin",2,2,100.0
+Marusik,1,0,Twin,N,"Bath, High Floor",406,2,0.0,"High Floor, Twin",1,2,50.0
+Marusik,1,0,Twin,N,"Bath, High Floor",407,2,0.0,"High Floor, Bath, Twin",2,2,100.0
+Marusik,1,0,Twin,N,"Bath, High Floor",408,2,0.0,"High Floor, Twin",1,2,50.0
+Norcutt,2,0,Double,Y,NOT Near to lift,101,2,0.0,"Accessible, Near to lift, Double",0,1,0.0
+Norcutt,2,0,Double,Y,NOT Near to lift,102,2,0.0,"Accessible, Double",1,1,100.0
+Norcutt,2,0,Double,Y,NOT Near to lift,103,2,0.0,"Accessible, Double",1,1,100.0
+Norcutt,2,0,Double,Y,NOT Near to lift,104,2,0.0,"Accessible, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,101,2,0.0,"Accessible, Near to lift, Double",0,1,0.0
+Rozzier,2,0,Double,N,Bath,102,2,0.0,"Accessible, Double",0,1,0.0
+Rozzier,2,0,Double,N,Bath,103,2,0.0,"Accessible, Double",0,1,0.0
+Rozzier,2,0,Double,N,Bath,104,2,0.0,"Accessible, Double",0,1,0.0
+Rozzier,2,0,Double,N,Bath,201,2,0.0,"Near to lift, Double",0,1,0.0
+Rozzier,2,0,Double,N,Bath,202,2,0.0,"Bath,Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,203,2,1.0,Double,0,1,0.0
+Rozzier,2,0,Double,N,Bath,204,2,0.0,"Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,205,2,0.0,Double,0,1,0.0
+Rozzier,2,0,Double,N,Bath,206,2,1.0,"Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,207,2,0.0,"Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,208,2,1.0,Double,0,1,0.0
+Rozzier,2,0,Double,N,Bath,305,2,0.0,Double,0,1,0.0
+Rozzier,2,0,Double,N,Bath,306,2,1.0,Double,0,1,0.0
+Rozzier,2,0,Double,N,Bath,307,2,1.0,"Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,308,2,0.0,"Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,501,2,1.0,"High Floor, Bath, Near to lift, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,502,2,0.0,"High Floor, Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,503,2,1.0,"High Floor, Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,504,2,1.0,"High Floor, Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,505,2,0.0,"High Floor, Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,506,2,1.0,"High Floor, Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,507,2,1.0,"High Floor, Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,508,2,0.0,"High Floor, Double",0,1,0.0
+Rozzier,2,0,Double,N,Bath,601,4,0.0,"High Floor, Bath, Near to lift, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,602,4,0.0,"High Floor, Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,603,4,0.0,"High Floor, Bath, Double",1,1,100.0
+Rozzier,2,0,Double,N,Bath,604,4,0.0,"High Floor, Bath, Double",1,1,100.0
+Saph,2,1,Double,N,"Bath, NOT Near to lift",203,2,1.0,Double,1,2,50.0
+Saph,2,1,Double,N,"Bath, NOT Near to lift",206,2,1.0,"Bath, Double",2,2,100.0
+Saph,2,1,Double,N,"Bath, NOT Near to lift",208,2,1.0,Double,1,2,50.0
+Saph,2,1,Double,N,"Bath, NOT Near to lift",306,2,1.0,Double,1,2,50.0
+Saph,2,1,Double,N,"Bath, NOT Near to lift",307,2,1.0,"Bath, Double",2,2,100.0
+Saph,2,1,Double,N,"Bath, NOT Near to lift",501,2,1.0,"High Floor, Bath, Near to lift, Double",1,2,50.0
+Saph,2,1,Double,N,"Bath, NOT Near to lift",503,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Saph,2,1,Double,N,"Bath, NOT Near to lift",504,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Saph,2,1,Double,N,"Bath, NOT Near to lift",506,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Saph,2,1,Double,N,"Bath, NOT Near to lift",507,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Segeswoeth,4,0,Double,N,"High Floor, NOT Near to lift",601,4,0.0,"High Floor, Bath, Near to lift, Double",1,2,50.0
+Segeswoeth,4,0,Double,N,"High Floor, NOT Near to lift",602,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Segeswoeth,4,0,Double,N,"High Floor, NOT Near to lift",603,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Segeswoeth,4,0,Double,N,"High Floor, NOT Near to lift",604,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Vowell,4,0,Double,N,"High Floor, NOT Near to lift",601,4,0.0,"High Floor, Bath, Near to lift, Double",1,2,50.0
+Vowell,4,0,Double,N,"High Floor, NOT Near to lift",602,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Vowell,4,0,Double,N,"High Floor, NOT Near to lift",603,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Vowell,4,0,Double,N,"High Floor, NOT Near to lift",604,4,0.0,"High Floor, Bath, Double",2,2,100.0
+Winmill,1,1,Double,N,"High Floor, NOT Near to lift",203,2,1.0,Double,1,2,50.0
+Winmill,1,1,Double,N,"High Floor, NOT Near to lift",206,2,1.0,"Bath, Double",1,2,50.0
+Winmill,1,1,Double,N,"High Floor, NOT Near to lift",208,2,1.0,Double,1,2,50.0
+Winmill,1,1,Double,N,"High Floor, NOT Near to lift",306,2,1.0,Double,1,2,50.0
+Winmill,1,1,Double,N,"High Floor, NOT Near to lift",307,2,1.0,"Bath, Double",1,2,50.0
+Winmill,1,1,Double,N,"High Floor, NOT Near to lift",501,2,1.0,"High Floor, Bath, Near to lift, Double",1,2,50.0
+Winmill,1,1,Double,N,"High Floor, NOT Near to lift",503,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Winmill,1,1,Double,N,"High Floor, NOT Near to lift",504,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Winmill,1,1,Double,N,"High Floor, NOT Near to lift",506,2,1.0,"High Floor, Bath, Double",2,2,100.0
+Winmill,1,1,Double,N,"High Floor, NOT Near to lift",507,2,1.0,"High Floor, Bath, Double",2,2,100.0
