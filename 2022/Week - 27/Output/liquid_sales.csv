@@ -1,0 +1,43 @@
+Store Name,Region,Quantity,Present in N orders,Sale Value
+Chelsea,West,25,48,8550.55
+Chelsea,West,50,52,9338.789999999999
+Chelsea,West,100,43,7989.93
+Chelsea,West,250,40,6574.2
+Chelsea,West,500,62,11111.0
+Chelsea,West,750,55,8822.72
+Chelsea,West,1000,46,7253.3099999999995
+Dulwich,East,25,51,8788.93
+Dulwich,East,50,50,9255.960000000001
+Dulwich,East,100,49,9079.9
+Dulwich,East,250,62,9994.59
+Dulwich,East,500,65,12565.49
+Dulwich,East,750,90,15411.24
+Dulwich,East,1000,61,11361.47
+Lewisham,East,25,58,10816.88
+Lewisham,East,50,79,14005.22
+Lewisham,East,100,60,10640.34
+Lewisham,East,250,71,12470.06
+Lewisham,East,500,68,11827.43
+Lewisham,East,750,64,9944.91
+Lewisham,East,1000,60,9029.74
+Notting Hill,West,25,54,9739.2
+Notting Hill,West,50,57,10334.18
+Notting Hill,West,100,58,9379.35
+Notting Hill,West,250,47,10059.3
+Notting Hill,West,500,54,8602.31
+Notting Hill,West,750,49,9160.97
+Notting Hill,West,1000,59,10496.83
+Shoreditch,East,25,54,9601.53
+Shoreditch,East,50,67,10097.66
+Shoreditch,East,100,64,8563.37
+Shoreditch,East,250,53,9531.96
+Shoreditch,East,500,62,9541.02
+Shoreditch,East,750,63,10350.78
+Shoreditch,East,1000,72,11195.06
+Wimbledon,West,25,46,7578.51
+Wimbledon,West,50,50,9756.43
+Wimbledon,West,100,64,12729.6
+Wimbledon,West,250,51,10097.95
+Wimbledon,West,500,54,11739.12
+Wimbledon,West,750,64,11888.27
+Wimbledon,West,1000,49,8489.15
